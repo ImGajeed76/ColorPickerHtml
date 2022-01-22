@@ -16,6 +16,7 @@ div.querySelector("input").style.borderWidth = "1px"
 div.querySelector("input").style.borderColor = gray
 div.querySelector("input").style.borderRadius = "5px"
 div.querySelector("input").style.outline = "none"
+div.querySelector("input").style.fontSize = "large"
 
 div.querySelector("input").style.width = "60%"
 div.querySelector("input").style.height = "40%"
