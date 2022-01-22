@@ -33,7 +33,7 @@ div.querySelector("input").addEventListener("input", function (e) {
     else {
         document.body.style.backgroundColor = "white"
 
-        div.querySelector("h1").style.color = "black"
+        div.querySelector("h1").style.color = gray
         div.querySelector("input").style.borderColor = gray
     }
 
